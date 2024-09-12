@@ -1,0 +1,69 @@
+{
+    "cve": 694,
+    "func": 1359,
+    "tools": {
+        "ours": {
+            "em-cve": 628,
+            "sem-cve": 641,
+            "em-func": 1283,
+            "sem-func": 1297,
+            "codebleu": 0.921
+        },
+        "ours-linux": {
+            "em-cve": 479,
+            "sem-cve": 484,
+            "em-func": 999,
+            "sem-func": 1004,
+            "codebleu": 0.921
+        },
+        "TSBPORT": {
+            "em-cve": 557,
+            "sem-cve": 571,
+            "em-func": 1127,
+            "sem-func": 1145,
+            "codebleu": 0.919
+        },
+        "PPatHF": {
+            "em-cve": 253,
+            "sem-cve": 267,
+            "em-func": 727,
+            "sem-func": 747,
+            "codebleu": 0.876
+        },
+        "Fixmorph": {
+            "em-cve": 97,
+            "sem-cve": 145,
+            "em-func": 96,
+            "sem-func": 151,
+            "codebleu": 0.858
+        },
+        "GPT-3.5-Turbo": {
+            "em-cve": 205,
+            "sem-cve": 219,
+            "em-func": 560,
+            "sem-func": 595,
+            "codebleu": 0.783
+        },
+        "GPT-4o": {
+            "em-cve": 488,
+            "sem-cve": 497,
+            "em-func": 1082,
+            "sem-func": 1094,
+            "codebleu": 0.859
+        },
+        "CodeLlama": {
+            "em-cve": 229,
+            "sem-cve": 242,
+            "em-func": 656,
+            "sem-func": 676,
+            "codebleu": 0.874
+        },
+        "StarCoder": {
+            "em-cve": 338,
+            "sem-cve": 342,
+            "em-func": 858,
+            "sem-func": 869,
+            "codebleu": 0.878
+        }
+    }
+}

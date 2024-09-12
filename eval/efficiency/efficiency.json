@@ -1,0 +1,22 @@
+{
+    "cve": {
+        "ours": 110.8,
+        "TSBPORT": 123.9,
+        "FixMorph": 3239.8,
+        "PPatHF": 69.4,
+        "GPT-3.5": 29.8,
+        "GPT-4o": 24.9,
+        "CodeLlama": 64.3,
+        "StarCoder": 55.7
+    },
+    "func": {
+        "ours": 56.5,
+        "TSBPORT": 63.2,
+        "FixMorph": 1603.7,
+        "PPatHF": 35.4,
+        "GPT-3.5": 15.2,
+        "GPT-4o": 12.7,
+        "CodeLlama": 32.8,
+        "StarCoder": 28.4
+    }
+}

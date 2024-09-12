@@ -1,0 +1,32 @@
+{
+    "cve": 694,
+    "func": 1359,
+    "em-cve": 628,
+    "sem-cve": 641,
+    "em-func": 1283,
+    "sem-func": 1297,
+    "codebleu": 0.921,
+    "tools": {
+        "sig": {
+            "em-cve": 567,
+            "sem-cve": 575,
+            "em-func": 1218,
+            "sem-func": 1226,
+            "codebleu": 0.740
+        },
+        "finetune": {
+            "em-cve": 304,
+            "sem-cve": 308,
+            "em-func": 770,
+            "sem-func": 782,
+            "codebleu": 0.883
+        },
+        "refining": {
+            "em-cve": 564,
+            "sem-cve": 567,
+            "em-func": 1208,
+            "sem-func": 1213,
+            "codebleu": 0.901
+        }
+    }
+}

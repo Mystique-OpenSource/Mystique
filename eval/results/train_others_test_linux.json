@@ -1,0 +1,20 @@
+{
+    "cve": 513,
+    "func": 1037,
+    "tools": {
+        "ours": {
+            "em-cve": 469,
+            "sem-cve": 470,
+            "em-func": 984,
+            "sem-func": 985,
+            "codebleu": 0.915
+        },
+        "PPatHF": {
+            "em-cve": 129,
+            "sem-cve": 131,
+            "em-func": 459,
+            "sem-func": 464,
+            "codebleu": 0.782
+        }
+    }
+}
