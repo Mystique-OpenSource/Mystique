@@ -1,0 +1,26 @@
+{
+    "StarCoder": {
+        "cve": "242",
+        "func": "676"
+    },
+    "PPatHF-StarCoder": {
+        "cve": "267",
+        "func": "747"
+    },
+    "Mystique-StarCoder": {
+        "cve": "493",
+        "func": "1095"
+    },
+    "CodeLlama": {
+        "cve": "342",
+        "func": "869"
+    },
+    "PPatHF-CodeLlama": {
+        "cve": "361",
+        "func": "910"
+    },
+    "Mystique-CodeLlama": {
+        "cve": "641",
+        "func": "1297"
+    }
+}

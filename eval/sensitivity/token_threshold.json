@@ -1,0 +1,22 @@
+{
+    "1,024": {
+        "CVE Succ Rate": 0.625,
+        "Func Succ Rate": 0.713
+    },
+    "2,048": {
+        "CVE Succ Rate": 0.836,
+        "Func Succ Rate": 0.874
+    },
+    "4,096": {
+        "CVE Succ Rate": 0.911,
+        "Func Succ Rate": 0.948
+    },
+    "8,192": {
+        "CVE Succ Rate": 0.912,
+        "Func Succ Rate": 0.947
+    },
+    "16,384": {
+        "CVE Succ Rate": 0.908,
+        "Func Succ Rate": 0.951
+    }
+}

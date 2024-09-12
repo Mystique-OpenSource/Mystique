@@ -1,0 +1,38 @@
+{
+    "0.1": {
+        "CVE Succ Rate": 0.791,
+        "Func Succ Rate": 0.872
+    },
+    "0.2": {
+        "CVE Succ Rate": 0.836,
+        "Func Succ Rate": 0.893
+    },
+    "0.3": {
+        "CVE Succ Rate": 0.871,
+        "Func Succ Rate": 0.925
+    },
+    "0.4": {
+        "CVE Succ Rate": 0.885,
+        "Func Succ Rate": 0.932
+    },
+    "0.5": {
+        "CVE Succ Rate": 0.911,
+        "Func Succ Rate": 0.948
+    },
+    "0.6": {
+        "CVE Succ Rate": 0.903,
+        "Func Succ Rate": 0.924
+    },
+    "0.7": {
+        "CVE Succ Rate": 0.901,
+        "Func Succ Rate": 0.909
+    },
+    "0.8": {
+        "CVE Succ Rate": 0.851,
+        "Func Succ Rate": 0.918
+    },
+    "0.9": {
+        "CVE Succ Rate": 0.826,
+        "Func Succ Rate": 0.903
+    }
+}

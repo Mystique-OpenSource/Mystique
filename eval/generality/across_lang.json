@@ -1,0 +1,48 @@
+{
+    "cve": 61,
+    "func": 204,
+    "tools": {
+        "ours": {
+            "em-cve": 51,
+            "sem-cve": 52,
+            "em-func": 192,
+            "sem-func": 194,
+            "codebleu": 0.830
+        },
+        "PPatHF": {
+            "em-cve": 23,
+            "sem-cve": 23,
+            "em-func": 131,
+            "sem-func": 131,
+            "codebleu": 0.566
+        },
+        "GPT-3.5-Turbo": {
+            "em-cve": 16,
+            "sem-cve": 18,
+            "em-func": 110,
+            "sem-func": 112,
+            "codebleu": 0.787
+        },
+        "GPT-4o": {
+            "em-cve": 37,
+            "sem-cve": 39,
+            "em-func": 164,
+            "sem-func": 168,
+            "codebleu": 0.702
+        },
+        "CodeLlama": {
+            "em-cve": 30,
+            "sem-cve": 30,
+            "em-func": 136,
+            "sem-func": 136,
+            "codebleu": 0.695
+        },
+        "StarCoder": {
+            "em-cve": 35,
+            "sem-cve": 36,
+            "em-func": 161,
+            "sem-func": 162,
+            "codebleu": 0.641
+        }
+    }
+}
